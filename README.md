@@ -117,4 +117,8 @@ El código de este sitio está disponible como parte de mi portafolio personal. 
 
 ---
 
-Desarrollado por **Gabriela** — [LinkedIn](#) · [Portafolio](#)
+### Desarrollado por
+
+**Gabriela Escalona** — [LinkedIn](https://linkedin.com/in/gabriela-escalona-weldt-b32855243) · [Portafolio](https://github.com/gescalonaw)
+
+**Miko Peñailillo** — [LinkedIn](https://www.linkedin.com/in/mirko-peñailillo-vásquez-70094339b) · [Portafolio](https://github.com/MirkoVP)
